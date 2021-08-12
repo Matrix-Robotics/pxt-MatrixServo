@@ -1,0 +1,21 @@
+{
+    "name": "MatrixServo",
+    "version": "1.0.0",
+    "description": "The extension for MATRIX Servo Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "MxServo.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
