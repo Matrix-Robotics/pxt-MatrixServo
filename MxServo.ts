@@ -12,7 +12,7 @@ enum ServoChannel
     CH8
 }
 
-//% weight=3 Servo=#8022be icon="f0b2" block="MxServo"
+//% weight=3 Servo=#8022be icon="f085" block="MxServo"
 namespace MxServo{
 
     const MxServo_ADDR = 0x25
