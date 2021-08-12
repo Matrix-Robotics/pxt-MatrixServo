@@ -1,0 +1,8 @@
+{
+  "MxServo.ChannelRelease|block": "servo %ch release",
+  "MxServo.init|block": "start up the servo extension",
+  "MxServo.readVbat|block": "read voltage of servo extension",
+  "MxServo.setAngle|block": "set %ch servo to %angle",
+  "MxServo|block": "MxServo",
+  "{id:category}MxServo": "MxServo"
+}

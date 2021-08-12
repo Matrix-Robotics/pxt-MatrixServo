@@ -1,0 +1,9 @@
+{
+  "MxServo.ChannelRelease": "release the channel of servo",
+  "MxServo.ChannelRelease|param|ch": "[1-8] select the channel of servo; eg: 1, 6",
+  "MxServo.init": "start up the servo extension",
+  "MxServo.readVbat": "read voltage of servo extension",
+  "MxServo.setAngle": "set servo angle",
+  "MxServo.setAngle|param|angle": "[0-180] set the angle of servo; eg: 0, 180",
+  "MxServo.setAngle|param|ch": "[1-8] select the channel of servo; eg: 1, 6"
+}
