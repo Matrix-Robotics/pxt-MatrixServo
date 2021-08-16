@@ -9,8 +9,8 @@
     "files": [
         "README.md",
         "MxServo.ts",
-        "_locales/zh-tw/MatrixMicro-jsdoc-strings.json",
-        "_locales/zh-tw/MatrixMicro-strings.json"
+        "_locales/zh-tw/MatrixServo-jsdoc-strings.json",
+        "_locales/zh-tw/MatrixServo-strings.json"
     ],
     "testFiles": [
         "test.ts"
