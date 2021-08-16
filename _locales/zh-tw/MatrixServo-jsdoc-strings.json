@@ -1,9 +1,9 @@
 {
-  "MxServo.ChannelRelease": "release the channel of servo",
-  "MxServo.ChannelRelease|param|ch": "[1-8] select the channel of servo; eg: 1, 6",
-  "MxServo.init": "start up the servo extension",
-  "MxServo.readVbat": "read voltage of servo extension",
-  "MxServo.setAngle": "set servo angle",
-  "MxServo.setAngle|param|angle": "[0-180] set the angle of servo; eg: 0, 180",
-  "MxServo.setAngle|param|ch": "[1-8] select the channel of servo; eg: 1, 6"
+  "MxServo.ChannelRelease": "釋放伺服馬達",
+  "MxServo.ChannelRelease|param|ch": "[1-8] 伺服馬達接口; eg: 1, 6",
+  "MxServo.init": "啟動伺服馬達擴充模組",
+  "MxServo.readVbat": "讀取擴充模組電池電壓",
+  "MxServo.setAngle": "設定伺服馬達角度",
+  "MxServo.setAngle|param|angle": "[0-180] 伺服馬達角度; eg: 0, 180",
+  "MxServo.setAngle|param|ch": "[1-8] 伺服馬達接口; eg: 1, 6"
 }

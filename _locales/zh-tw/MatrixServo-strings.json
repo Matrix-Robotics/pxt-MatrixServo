@@ -1,8 +1,8 @@
 {
-  "MxServo.ChannelRelease|block": "servo %ch release",
-  "MxServo.init|block": "start up the servo extension",
-  "MxServo.readVbat|block": "read voltage of servo extension",
-  "MxServo.setAngle|block": "set %ch servo to %angle",
+  "MxServo.ChannelRelease|block": "釋放伺服馬達%ch",
+  "MxServo.init|block": "啟動伺服馬達擴充模組",
+  "MxServo.readVbat|block": "讀取擴充模組電池電壓",
+  "MxServo.setAngle|block": "設定伺服馬達%ch servo到%angle",
   "MxServo|block": "MxServo",
   "{id:category}MxServo": "MxServo"
 }
